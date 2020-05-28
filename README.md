@@ -1,4 +1,4 @@
-# Project 0
+Taimar.kz
 
 The personal website. Contains information about my academic background, work experience, projects performed and 
 certifications gained.
