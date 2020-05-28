@@ -1,0 +1,36 @@
+#navigation-menu {
+  margin-top: 20px; }
+  #navigation-menu .nav-item .active {
+    color: #1919a1;
+    text-decoration: underline; }
+
+@media (min-width: 500px) {
+  #navigation-menu .nav {
+    justify-content: flex-end !important; } }
+@media (max-width: 499px) {
+  #navigation-menu .nav {
+    justify-content: center !important; } }
+#content {
+  padding: 20px; }
+  #content img {
+    margin: 15px; }
+
+#academic-background .card, #work-experience .card, #volunteer-experience .card, #certificates .card {
+  margin: 10px; }
+
+#academic-background .card {
+  background-color: #f0f5f0; }
+
+#work-experience .card {
+  background-color: #eaf7fa; }
+
+#volunteer-experience .card {
+  background-color: #f5ddfc; }
+
+#certificates .card {
+  background-color: #f0fcda; }
+
+.table a {
+  text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */
